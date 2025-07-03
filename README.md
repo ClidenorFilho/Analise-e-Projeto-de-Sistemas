@@ -10,8 +10,6 @@ Os diagramas estão organizados por tipo e finalidade, incluindo:
 - **Diagramas de Classes**
 - **Diagramas de Atividades**
 - **Diagramas de Sequência**
-- **Diagramas de Implantação**
-- **Diagramas de Banco de Dados**
 - **Outros diagramas UML ou BPMN**
 
 ## 🛠️ Ferramentas Utilizadas
